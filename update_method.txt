@@ -1,1 +1,1 @@
-
+local mapping 不提供全局坐标？？
