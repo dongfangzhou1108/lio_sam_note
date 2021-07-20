@@ -1,1 +1,5 @@
-
+TransformFusion:
+input:IMU里程计+激光里程计
+根据前一时刻的激光里程计和imu预积分增量计算当前IMU里程计？不太重要
+IMUPreintegration：
+input:IMU数据+激光里程计
